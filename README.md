@@ -2,7 +2,7 @@
 
 ## Linguagens ministradas:
 * ## C
-* ##
+* ## Haskell
 * ##
 * ##
 * ##
